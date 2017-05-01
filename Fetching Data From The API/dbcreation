@@ -1,0 +1,18 @@
+db.products.insert({
+	name: 'Samsung Galaxy S7 Edge',
+	category:'Electronics',
+	model:'SM-G935F',
+	price: 52899.00,
+	image: 'http://www.amazon.in/Samsung-Galaxy-SM-G935F-Black-Pearl/dp/B01N1UM7CG/ref=sr_1_1?ie=UTF8&qid=1493583088&sr=8-1&keywords=samsung+galaxy+s7&tag=shop099-21'
+	details: 'Samsung Galaxy S7 Edge SM-G935F (Black Pearl, 128 GB)'
+});
+
+db.products.insert({
+	name: 'Giordano GX1577-44 Analog Watch - For Men',
+	category:'Electronics',
+	model:'GX1577-44',
+	price: 3918,
+	image: 'https://www.flipkart.com/giordano-gx1577-44-analog-watch-men/p/itme4hdeyjcfp7fr?pid=WATE4HC8UBQSF78U&srno=b_1_5&otracker=hp_omu_Deals%20of%20the%20Day_2_Min.%2050%25%20Off_43f29c73-7a3a-4b55-8611-b21ab22fd3f9&lid=LSTWATE4HC8UBQSF78U86YXG1'
+	details: 'Giordano GX1577-44 Analog Watch - For Men'
+});
+	
